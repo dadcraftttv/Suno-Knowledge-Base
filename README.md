@@ -1,5 +1,5 @@
 # Suno Knowledge Base
-**u/olddertybasterd's Centralized Suno Prompting Reference**
+**DadCraftTTV's Centralized Suno Prompting Reference**
 *Last updated: June 19, 2026 (Sonic 1 DNA string corrected)*
 
 ---
