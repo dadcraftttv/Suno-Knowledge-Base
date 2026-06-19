@@ -29,7 +29,7 @@ For each individual track in a project:
 - **Suno AI v5.5** — generation
 - **Ableton Live 12 Standard** — mixing
 - **`analyze_stem.py`** — custom Python script using ffmpeg/numpy/scipy to detect BPM and key of reference audio and generated stems
-- **Linux Mint / RTX 2070** — production environment
+- **Windows 11 / RTX 2070** — production environment
 
 ---
 
